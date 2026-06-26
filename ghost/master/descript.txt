@@ -6,6 +6,7 @@ kero.name,none
 
 craftman,lost_nd_xxx
 craftmanw,ろすえん
+craftmanurl,https://lnx.flop.jp/
 
 shiori,aosora.dll
 icon,bidama.ico
