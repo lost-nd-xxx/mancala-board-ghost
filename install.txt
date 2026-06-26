@@ -1,3 +1,4 @@
+charset,UTF-8
 type,ghost
 name,うかマンカラ
 directory,mancala-board-ghost
