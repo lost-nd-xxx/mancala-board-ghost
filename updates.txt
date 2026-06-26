@@ -12,7 +12,7 @@ file,ghost/master/license_aosora.txtb2125a4e3baba58fa07f66b9dc70fb37size=479d
 file,ghost/master/main.as701ad861edba266aa56c39f5757be772size=21017date=2012-12-21T00:00:00
 file,ghost/master/mancala_ai.as44e8e82822f460fcecc462bc35dbfc33size=7036date=2012-12-21T00:00:00
 file,ghost/master/protocol.as7c3a1edc059df7da9b03d2757232943bsize=7073date=2012-12-21T00:00:00
-file,install.txt0c3bb386de43f26bab3b64ce491e45b2size=65date=2012-12-21T00:00:00
+file,install.txtf28586336e855fa7ff4572a98c838b23size=79date=2012-12-21T00:00:00
 file,mancala_protocol_for_developers.txtb09d4eea306dc92f52dddbcdb9a61cfdsize=11251date=2012-12-21T00:00:00
 file,md5buildignore.txtfc32433c63cff373249214048ba8124fsize=125date=2012-12-21T00:00:00
 file,readme.mded7f3cb10b7f618255522796bbc96beasize=2238date=2012-12-21T00:00:00
