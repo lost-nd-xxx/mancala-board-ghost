@@ -8,3 +8,4 @@ _workspace/,nonar,noupdate
 CLAUDE.md,nonar,noupdate
 
 .git/,nonar,noupdate
+.github/,nonar,noupdate
