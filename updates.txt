@@ -3,7 +3,7 @@ file,.gitignore843b326e500b690e89cd54c3971cb205size=90date=2012-12-21T00:00:0
 file,developer_options.txtcb087de290444c756af1c030ca68cc31size=239date=2012-12-21T00:00:00
 file,ghost/master/aosora.dll70d4b166dabfe28e444db713ea0995aesize=1114112date=2012-12-21T00:00:00
 file,ghost/master/bidama.ico04fe7383bb96c20c1b6058fded11fd8bsize=17542date=2012-12-21T00:00:00
-file,ghost/master/descript.txt93bf3292a7c3f657c66457e42a43656asize=298date=2012-12-21T00:00:00
+file,ghost/master/descript.txt77bd716160ebf6429d7d433a22d79ff2size=331date=2012-12-21T00:00:00
 file,ghost/master/draw.as8735644bd2fbb554b5858610649683acsize=8474date=2012-12-21T00:00:00
 file,ghost/master/game.as2fa2861f180df2b38fdf84b311144538size=10724date=2012-12-21T00:00:00
 file,ghost/master/game_event.as61e40f234aba01c9eaf2295aaa32faffsize=15900date=2012-12-21T00:00:00
