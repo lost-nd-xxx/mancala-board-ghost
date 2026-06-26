@@ -1,0 +1,11 @@
+.git/
+.github/
+
+updates.txt
+updates2.dau
+
+ghost/master/savedata.asv
+ghost/master/profile/
+shell/master/profile/
+
+_workspace/

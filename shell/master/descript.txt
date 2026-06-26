@@ -1,0 +1,13 @@
+charset,UTF-8
+name,master
+type,shell
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+
+seriko.use_self_alpha,1
+seriko.alignmenttodesktop,free
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png

@@ -1,0 +1,16 @@
+charset,UTF-8
+type,ghost
+name,うかマンカラ
+sakura.name,うかマンカラ台
+kero.name,none
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+
+shiori,aosora.dll
+icon,bidama.ico
+
+readme,readme.md
+readme.charset,UTF-8
+
+homeurl,https://raw.githubusercontent.com/lost-nd-xxx/mancala-board-ghost/main/

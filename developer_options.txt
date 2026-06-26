@@ -1,0 +1,10 @@
+ghost/master/savedata.asv,nonar,noupdate
+ghost/master/profile/,nonar,noupdate
+shell/master/profile/,nonar,noupdate
+
+_workspace/,nonar,noupdate
+
+.claude/,nonar,noupdate
+CLAUDE.md,nonar,noupdate
+
+.git/,nonar,noupdate

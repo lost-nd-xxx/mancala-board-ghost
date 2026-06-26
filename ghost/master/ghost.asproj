@@ -1,0 +1,8 @@
+limit_script_steps,10000000
+
+main.as
+game.as
+draw.as
+mancala_ai.as
+protocol.as
+game_event.as
